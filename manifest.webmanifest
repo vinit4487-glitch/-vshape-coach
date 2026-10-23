@@ -1,26 +1,22 @@
 {
-  "id": "./",
-  "name": "V-Shape Coach",
-  "short_name": "V-Shape",
-  "description": "12-week lean muscle, strength and waist-progress tracker.",
-  "start_url": "./",
+  "name": "V-Shape Coach \u2014 12 Week Tracker",
+  "short_name": "V-Shape Coach",
+  "description": "Workout, progression, measurements and habit tracker for a 12-week V-shape plan.",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#f4f6f8",
-  "theme_color": "#101828",
+  "background_color": "#f4f7fa",
+  "theme_color": "#16324f",
   "icons": [
     {
       "src": "icons/icon-192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     },
     {
       "src": "icons/icon-512.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ]
 }
